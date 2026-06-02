@@ -112,21 +112,6 @@ No subscription. No monthly fees. Pay once.
 
 ---
 
-## Roadmap
-
-- [x] Media gallery from Instagram DM export
-- [x] Filter by sender, year, month, date range
-- [x] Sort newest / oldest
-- [x] Grid size toggle (small / medium / large)
-- [x] Single file download from lightbox
-- [x] Bulk select + ZIP download
-- [x] Mobile responsive
-- [ ] Search by filename / date
-- [ ] Stats page (total media, top senders, most active months)
-- [ ] WhatsApp export support
-- [ ] Telegram export support
-
----
 
 ## Links
 
