@@ -6,7 +6,7 @@
 
 ![Scrollback](./banner-image)
 
-[![Live](https://img.shields.io/badge/Live%20at-scrollback.in-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://scrollback.in)
+[![Live](https://img.shields.io/badge/Live%20at-scrollback.in-a855f7?style=for-the-badge&logo=vercel&logoColor=white)]([https://scrollback.in](https://scrollback.vercel.app/))
 [![Status](https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge)]()
 [![Privacy](https://img.shields.io/badge/Privacy-100%25%20Local-38bdf8?style=for-the-badge&logo=shield&logoColor=white)]()
 
@@ -130,9 +130,8 @@ No subscription. No monthly fees. Pay once.
 
 ## Links
 
-- 🌐 **Live app:** [scrollback.in](https://scrollback.in)
-- 🐦 **Twitter/X:** [@scrollbackapp](https://twitter.com/scrollbackapp)
-
+- 🌐 **Live app:** [scrollback.vercel.app](https://scrollback.vercel.app/)
+  
 ---
 
 ## Contact
