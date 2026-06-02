@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Scrollback](./banner.png)
+![Scrollback](./banner-image)
 
 [![Live](https://img.shields.io/badge/Live%20at-scrollback.in-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://scrollback.in)
 [![Status](https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge)]()
